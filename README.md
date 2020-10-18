@@ -27,4 +27,4 @@ I’m looking to collaborate on fun projects! Ping me if you have any fun projec
 ---
 
 ### Some stats about me
-![Pranshu's github stats](https://github-readme-stats.vercel.app/api?username=volt9801&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt9801&hide=css,html)]()
+[![Pranshu's github stats](https://github-readme-stats.vercel.app/api?username=volt9801&show_icons=true&count_private=true&hide_border=true)](https://github.com/volt9801?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt9801&hide=css,html&hide_border=true)](https://github.com/volt9801?tab=repositories)
