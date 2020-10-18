@@ -2,7 +2,7 @@
 
 I am Pranshu Jha, an aspriring software developer and high school student
 - 🔭 I’m currently working on expanding my skillset
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & JavaScript
 
 I’m looking to collaborate on fun projects! Ping me if you have any fun project ideas.
 
