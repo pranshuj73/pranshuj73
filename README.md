@@ -4,7 +4,7 @@ I am Pranshu Jha, an aspriring software developer and high school student
 - 🔭 I’m currently working on expanding my skillset
 - 🌱 I’m currently learning Python
 
-I’m looking to collaborate on fun projects! Ping me if
+I’m looking to collaborate on fun projects! Ping me if you have any fun project ideas.
 
 ---
 
@@ -23,5 +23,8 @@ I’m looking to collaborate on fun projects! Ping me if
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+
 ---
 
+### Some stats about me
+![Pranshu's github stats](https://github-readme-stats.vercel.app/api?username=volt9801&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt9801&hide=css,html)]()
