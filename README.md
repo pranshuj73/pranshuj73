@@ -2,14 +2,14 @@
 
 I am Pranshu Jha, an aspriring software developer and high school student
 - 🔭 I’m currently working on expanding my skillset
-- 🌱 I’m currently learning Python & JavaScript
+- 🌱 I’m currently learning Python
 
 I’m looking to collaborate on fun projects! Ping me if you have any fun project ideas.
 
 ---
 
 ### Languages I know
-<img src = "https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white"><!-- <img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff"> -->
 
 ### Tech & Tools I use
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
