@@ -33,4 +33,7 @@ I’m looking to collaborate on fun projects! Ping me if you have any fun projec
 
 ### Check out my latest blog posts!
 <!-- BLOG-POST-LIST:START -->
+- [Integrating TailwindCSS with React in 3 simple steps!](https://volt9801.hashnode.dev/integrating-tailwindcss-with-react-in-3-simple-steps)
+- [Making a Chat App with ReactJS and Firebase](https://volt9801.hashnode.dev/making-a-chat-app-with-reactjs-and-firebase)
+- [How to hack Chrome Runner](https://volt9801.hashnode.dev/how-to-hack-chrome-runner)
 <!-- BLOG-POST-LIST:END -->
