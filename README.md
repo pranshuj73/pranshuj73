@@ -4,7 +4,7 @@ I am Pranshu Jha, an aspriring software developer and high school student
 - 🔭 I’m currently working on expanding my skillset
 - 🌱 I’m currently learning Python
 
-I’m looking to collaborate on fun projects! Ping me if you have any fun project ideas.
+I’m looking to collaborate on fun projects! Contact me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)
 
 ---
 
