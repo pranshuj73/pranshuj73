@@ -18,7 +18,7 @@ I’m looking to collaborate on fun projects! Contact me at [pranshuj9801@gmail.
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-00000?style=flat&logo=flask&logoColor=FFFFFF">
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img alt="Git" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img alt="GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
