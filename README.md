@@ -1,10 +1,13 @@
 ### Hey there 👋, I'm [Pranshu](https://volt9801.github.io/portfolio) 
 
-I am Pranshu Jha, an aspriring software developer and high school student
-- 🔭 I’m currently working on expanding my skillset
-- 🌱 I’m currently learning Python
+I am Pranshu Jha, an aspriring software developer with a liking for web development. I like to design and code websites and to automate tasks using Python.
+- 🚀 I'm intermediately proficient with Python and it's the language I use most often
+- 🔭 Currently working on expanding my skillset as a full-stack developer
+- 🌱 Learning Java basics
 
-I’m looking to collaborate on fun projects! Contact me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)
+Overall, I code just for the fun of it!
+
+Psst! I'm up for collaboration as long as the project idea sounds fun! Feel free to contact me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)
 
 ---
 
