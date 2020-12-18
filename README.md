@@ -1,6 +1,6 @@
-### Hey there 👋, I'm [Pranshu](https://volt9801.github.io/portfolio) 
+### Hey there 👋 
 
-I am Pranshu Jha, an aspriring software developer with a liking for web development. I like to design and code websites and to automate tasks using Python.
+I am [Pranshu Jha](https://volt9801.github.io/portfolio), an aspriring software developer with a liking for web development. I like to design and code websites and to automate tasks using Python.
 - 🚀 I'm intermediately proficient with Python and it's the language I use most often
 - 🔭 Currently working on expanding my skillset as a full-stack developer
 - 🌱 Learning Java basics
