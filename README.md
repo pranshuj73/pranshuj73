@@ -7,8 +7,6 @@ I am [Pranshu Jha](https://volt9801.github.io/portfolio), an aspriring software 
 
 Overall, I code just for the fun of it!
 
-Feel free to contact me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)
-
 ---
 
 ### Languages I know
