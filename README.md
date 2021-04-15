@@ -30,7 +30,7 @@ Overall, I code just for the fun of it!
 ---
 
 ### User Stats
-[![Pranshu's github stats](https://github-readme-stats.vercel.app/api?username=volt9801&show_icons=true&count_private=true&hide_border=true)](https://github.com/volt9801?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt9801&hide=css,html&hide_border=true)](https://github.com/volt9801?tab=repositories)
+[![Pranshu's github stats](https://github-readme-stats.vercel.app/api?username=pranshuj73&show_icons=true&count_private=true&hide_border=true)](https://github.com/pranshuj73?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuj73&hide=css,html&hide_border=true)](https://github.com/pranshuj73?tab=repositories)
 
 ---
 
