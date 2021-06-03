@@ -36,7 +36,5 @@ Overall, I code just for the fun of it!
 
 ### Check out my latest blog posts!
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your React app to GitHub Pages in 3 simple steps!](https://voltycodes.hashnode.dev/deploy-your-react-app-to-github-pages-in-3-simple-steps)
 - [Integrating TailwindCSS with React in 3 simple steps!](https://voltycodes.hashnode.dev/integrating-tailwindcss-with-react-in-3-simple-steps-1)
-- [Making a Chat App with ReactJS and Firebase](https://voltycodes.hashnode.dev/making-a-chat-app-with-reactjs-and-firebase)
 <!-- BLOG-POST-LIST:END -->
