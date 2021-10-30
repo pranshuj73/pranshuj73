@@ -10,15 +10,13 @@
 
 <br />
 <div align="center">
- <a href="https://twitter.com/pranshuj73">
+ <a href="https://twitter.com/pranshuj73" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-@pranshuj73-blue?color=efefef&style=for-the-badge&logo=twitter" />
  </a>
- &nbsp;
- <a href="https://www.linkedin.com/in/pranshu-jha-7ba383183/">
+ <a href="https://www.linkedin.com/in/pranshu-jha-7ba383183/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Pranshu Jha-blue?color=efefef&style=for-the-badge&logo=linkedin" />
  </a>
 </div>
-<br />
 
 ## Check out my blog posts!
 <!-- BLOG-POST-LIST:START -->
