@@ -21,5 +21,7 @@
 
 ## Check out my blog posts!
 <!-- BLOG-POST-LIST:START -->
-- [Integrating TailwindCSS with React in 3 simple steps!](https://voltycodes.hashnode.dev/integrating-tailwindcss-with-react-in-3-simple-steps-1)
+- [Beautify Your Text With CSS Gradients!](https://pranshujha.hashnode.dev/beautify-your-text-with-css-gradients)
+- [8 reasons why you should consider learning Python today!](https://pranshujha.hashnode.dev/8-reasons-why-you-should-consider-learning-python-today)
+- [Integrating TailwindCSS with React in 3 simple steps!](https://pranshujha.hashnode.dev/integrating-tailwindcss-with-react-in-3-simple-steps-1)
 <!-- BLOG-POST-LIST:END -->
