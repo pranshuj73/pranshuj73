@@ -1,4 +1,6 @@
-<pre>
+<a href="https://app.daily.dev/voltycodes"><img align=right src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="300" alt="Pranshu Jha's Dev Card"/></a>
+
+<pre style="max-width:50%;">
  ██╗   ██╗ █████╗ ██╗  ████████╗██╗   ██╗     @pranshuj73
  ██║   ██║██╔══██╗██║  ╚══██╔══╝╚██╗ ██╔╝     ---------------
  ╚██╗ ██╔╝██║  ██║██║     ██║    ╚████╔╝      Uptime : 18 yrs
