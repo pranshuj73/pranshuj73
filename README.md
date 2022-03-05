@@ -26,9 +26,12 @@
 - [Integrating TailwindCSS with React in 3 simple steps!](https://pranshu.codes/integrating-tailwindcss-with-react-in-3-simple-steps-1)
 <!-- BLOG-POST-LIST:END -->
 
+<br/><br/>
+
+## My GitHub Stats
+
 <div align=center>
- <a href="https://app.daily.dev/voltycodes"><img align=centersrc="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="300" alt="Pranshu Jha's Dev Card"/></a>
- <img align=centersrc="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Pranshu Jha' Stats"/>
- <br/>
- <img align=centersrc="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=css,html" alt="Pranshu Jha's top languages"/>
+ <a href="https://app.daily.dev/voltycodes"><img align=left src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="300" alt="Pranshu Jha's Dev Card"/></a>
+ <img align=left src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha' Stats"/>
+ <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=css,html&theme=dracula&hide_border=true" alt="Pranshu Jha's top languages"/>
 </div>
