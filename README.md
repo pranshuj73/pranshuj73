@@ -32,7 +32,7 @@ Psst! I'm up for collaboration as long as the project idea sounds fun! Feel free
 - [Integrating TailwindCSS with React in 3 simple steps!](https://pranshu.codes/integrating-tailwindcss-with-react-in-3-simple-steps-1)
 <!-- BLOG-POST-LIST:END -->
 
-<br/><hr/>
+<br/>
 
 ## My GitHub Stats
 
