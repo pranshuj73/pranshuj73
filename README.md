@@ -1,11 +1,17 @@
-<pre>
- ██╗   ██╗ █████╗ ██╗  ████████╗██╗   ██╗     @pranshuj73
- ██║   ██║██╔══██╗██║  ╚══██╔══╝╚██╗ ██╔╝     ---------------
- ╚██╗ ██╔╝██║  ██║██║     ██║    ╚████╔╝      Uptime : 18 yrs
-  ╚████╔╝ ██║  ██║██║     ██║     ╚██╔╝       Langs  : Py, JS, C++
-   ╚██╔╝  ╚█████╔╝███████ ██║      ██║        Likes  : Linux, Reading
-    ╚═╝    ╚════╝ ╚══════╝╚═╝      ╚═╝        ---------------
-</pre>
+### Hey there 👋 
+
+I am [Pranshu Jha](http://pranshuj73.vercel.app/), an aspriring software developer with a liking for web development. I like to design and code websites and to automate tasks using Python.
+
+- 🚀 I'm intermediately proficient with Python and it's the language I use most often
+- 🔭 I’m currently working on expanding my skillset as a full-stack developer
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: tech, memes, anime
+- 😄 Pronouns: he/him
+- ⚡ Languages: Python3, JavaScript, C++
+
+Overall, I code just for the fun of it!
+
+Psst! I'm up for collaboration as long as the project idea sounds fun! Feel free to contact me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)
 
 <!-- SOCIALS -->
 
@@ -26,12 +32,11 @@
 - [Integrating TailwindCSS with React in 3 simple steps!](https://pranshu.codes/integrating-tailwindcss-with-react-in-3-simple-steps-1)
 <!-- BLOG-POST-LIST:END -->
 
-<br/><br/>
+<br/><hr/>
 
 ## My GitHub Stats
 
-<div align=center>
- <a href="https://app.daily.dev/voltycodes"><img align=left src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="300" alt="Pranshu Jha's Dev Card"/></a>
- <img align=left src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha' Stats"/>
- <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=css,html&theme=dracula&hide_border=true" alt="Pranshu Jha's top languages"/>
-</div>
+<a href="https://app.daily.dev/voltycodes"><img align=left src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card"/></a>
+<img align=left src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha' Stats"/>
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=css,html&theme=dracula&hide_border=true" alt="Pranshu Jha's top languages"/>
+
