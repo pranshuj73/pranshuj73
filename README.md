@@ -1,11 +1,11 @@
 # Hey there 👋 
 
-I'm [Pranshu Jha](http://pranshuj73.vercel.app/), a freshmann from India aspiring to become a Full-Stack Developer. I like designing and creating web-apps and, often automating tasks with Python!
+I'm [Pranshu Jha](http://pranshuj73.vercel.app/), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
 
 - 🚀 I'm intermediately proficient with Python and JavaScript
-- 🔭 I’m currently working on expanding my skillset as a full-stack developer
-- 🌱 I’m currently learning more about react and exploring the world of web3 and blockchain
-- 💬 Ask me about: tech, memes, anime
+- 🔭 I’m currently working on expanding my skill set as a Full-Stack Developer
+- 🌱 I’m currently learning more about React and exploring the world of Web3 and Blockchain
+- 💬 Ask me about tech, memes & anime
 - 😄 Pronouns: he/him
 - ⚡ Languages Known: Python3, JavaScript, C++
 
