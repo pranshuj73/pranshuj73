@@ -1,17 +1,17 @@
-### Hey there 👋 
+# Hey there 👋 
 
-I am [Pranshu Jha](http://pranshuj73.vercel.app/), an aspriring software developer with a liking for web development. I like to design and code websites and to automate tasks using Python.
+I'm [Pranshu Jha](http://pranshuj73.vercel.app/), a freshmann from India aspiring to become a Full-Stack Developer. I like designing and creating web-apps and, often automating tasks with Python!
 
-- 🚀 I'm intermediately proficient with Python and it's the language I use most often
+- 🚀 I'm intermediately proficient with Python and JavaScript
 - 🔭 I’m currently working on expanding my skillset as a full-stack developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning more about react and exploring the world of web3 and blockchain
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python3, JavaScript, C++
+- ⚡ Languages Known: Python3, JavaScript, C++
 
 Overall, I code just for the fun of it!
 
-Psst! I'm up for collaboration as long as the project idea sounds fun! Feel free to contact me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)
+Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)!
 
 <!-- SOCIALS -->
 
@@ -34,7 +34,7 @@ Psst! I'm up for collaboration as long as the project idea sounds fun! Feel free
 
 <br/>
 
-## My GitHub Stats
+## My Stats
 
 <a href="https://app.daily.dev/voltycodes"><img align=left src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card"/></a>
 <img align=left src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha' Stats"/>
