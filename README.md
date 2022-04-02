@@ -1,6 +1,6 @@
 # Hey there 👋 
 
-I'm [Pranshu Jha](http://pranshuj73.vercel.app/), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
+I'm [Pranshu Jha](http://pranshu.codes/), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
 
 - 🚀 I'm intermediately proficient with Python and JavaScript
 - 🔭 I’m currently working on expanding my skill set as a Full-Stack Developer
