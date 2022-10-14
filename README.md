@@ -1,11 +1,11 @@
-# Hey there 👋 
+# Hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35"/><img align="right" src="https://komarev.com/ghpvc/?username=pranshuj73&style=for-the-badge&color=00cafe" />
+
 
 I'm [Pranshu Jha](http://pranshu.codes/), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
-
 - 🚀 I'm intermediately proficient with Python and JavaScript
 - 🔭 I’m currently working on expanding my skill set as a Full-Stack Developer
 - 🌱 I’m currently learning more about React and exploring the world of Web3 and Blockchain
-- 💬 Ask me about tech, memes & anime
+- 💬 Ask me about web development & web3
 - 😄 Pronouns: he/him
 - ⚡ Languages Known: Python3, JavaScript, C++
 
@@ -16,6 +16,7 @@ Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@
 <!-- SOCIALS -->
 
 <br />
+
 <div align="center">
  <a href="https://twitter.com/pranshuj73" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-@pranshuj73-blue?color=efefef&style=for-the-badge&logo=twitter" />
@@ -26,17 +27,18 @@ Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@
 </div>
 
 ## Check out my blog posts!
+
 <!-- BLOG-POST-LIST:START -->
 - [Beautify Your Text With CSS Gradients!](https://blog.pranshu.codes/beautify-your-text-with-css-gradients)
 - [8 reasons why you should consider learning Python today!](https://blog.pranshu.codes/8-reasons-why-you-should-consider-learning-python-today)
 - [Integrating TailwindCSS with React in 3 simple steps!](https://blog.pranshu.codes/integrating-tailwindcss-with-react-in-3-simple-steps-1)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+<br />
 
 ## My Stats
-
-<a href="https://app.daily.dev/voltycodes"><img align=left src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card"/></a>
-<img align=left src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha' Stats"/>
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dracula&hide_border=true" alt="Pranshu Jha's top languages"/>
+<a href="https://app.daily.dev/voltycodes"><img align="left" src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha's Stats" />
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dracula&hide_border=true" alt="Pranshu Jha's top languages" />
 
