@@ -1,7 +1,7 @@
-# Hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35"/><img align="right" src="https://komarev.com/ghpvc/?username=pranshuj73&style=for-the-badge&color=00cafe" />
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/><img align="right" src="https://komarev.com/ghpvc/?username=pranshuj73&style=for-the-badge&color=00cafe" />
 
 
-I'm [Pranshu Jha](http://pranshu.codes/), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
+I'm [Pranshu Jha](https://linktr.ee/pranshuj73), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
 - 🚀 I'm intermediately proficient with Python and JavaScript
 - 🔭 I’m currently working on expanding my skill set as a Full-Stack Developer
 - 🌱 I’m currently learning more about React and exploring the world of Web3 and Blockchain
@@ -26,7 +26,7 @@ Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@
  </a>
 </div>
 
-## Check out my blog posts!
+## 📰 Check out my blog posts!
 
 <!-- BLOG-POST-LIST:START -->
 - [Beautify Your Text With CSS Gradients!](https://pranshujha.hashnode.dev/beautify-your-text-with-css-gradients)
@@ -36,7 +36,7 @@ Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@
 
 <br />
 
-## My Stats
+## 👾 My Stats
 <a href="https://app.daily.dev/voltycodes"><img align="left" src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card" /></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha's Stats" />
 <br/>
