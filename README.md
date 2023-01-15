@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/><img align="right" src="https://komarev.com/ghpvc/?username=pranshuj73&style=for-the-badge&color=00cafe" />
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>
 
 
 I'm [Pranshu Jha](https://linktr.ee/pranshuj73), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
