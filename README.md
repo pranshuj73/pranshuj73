@@ -29,6 +29,7 @@ Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@
 ## 📰 Check out my blog posts!
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a website to rickroll my friends](https://pranshujha.hashnode.dev/i-made-a-website-to-rickroll-my-friends)
 - [Beautify Your Text With CSS Gradients!](https://pranshujha.hashnode.dev/beautify-your-text-with-css-gradients)
 - [8 reasons why you should consider learning Python today!](https://pranshujha.hashnode.dev/8-reasons-why-you-should-consider-learning-python-today)
 - [Integrating TailwindCSS with React in 3 simple steps!](https://pranshujha.hashnode.dev/integrating-tailwindcss-with-react-in-3-simple-steps-1)
