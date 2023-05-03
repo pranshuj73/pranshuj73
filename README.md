@@ -29,11 +29,11 @@ Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@
 ## 📰 Check out my blog posts!
 
 <!-- BLOG-POST-LIST:START -->
+- [Give me 5 minutes and I&#39;ll teach you Git!](https://pranshujha.hashnode.dev/give-me-5-minutes-and-ill-teach-you-git)
 - [The History of Cryptography](https://pranshujha.hashnode.dev/the-history-of-cryptography)
 - [I made a website to rickroll my friends](https://pranshujha.hashnode.dev/i-made-a-website-to-rickroll-my-friends)
 - [Beautify Your Text With CSS Gradients!](https://pranshujha.hashnode.dev/beautify-your-text-with-css-gradients)
 - [8 reasons why you should consider learning Python today!](https://pranshujha.hashnode.dev/8-reasons-why-you-should-consider-learning-python-today)
-- [Deploy your React app to GitHub Pages in 3 simple steps!](https://pranshujha.hashnode.dev/deploy-your-react-app-to-github-pages-in-3-sim)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
