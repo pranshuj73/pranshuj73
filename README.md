@@ -42,6 +42,15 @@ However while I can't promise that you'll become a git expert at the end of the 
 <br/> Introduction
 Cryptography is the art of analyzing and deciphering codes. Throughout history, cryptography has been used to send secret messages between people, protect sensitive information, and hide important data from prying eyes.
 In this blog post... </p> <br/> <br/>
+<p align="left">
+<a href="https://pranshujha.hashnode.dev//i-made-a-website-to-rickroll-my-friends" title="I made a website to rickroll my friends"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674234732805/cecc1f08-0776-4026-bcd2-e55106ae43c7.png" alt="I made a website to rickroll my friends" width="250px" align="left" /></a>
+<a href="https://pranshujha.hashnode.dev//i-made-a-website-to-rickroll-my-friends" title="I made a website to rickroll my friends"><strong>I made a website to rickroll my friends</strong></a>
+<div><strong>20 Jan 2023</strong> | <strong>Updated: 20 Jan 2023</strong></div>
+<br/> For a long time, I've wanted to use my skills for the greater good, like trolling my friends. But then I had a genius idea pop up in my head.
+
+What if there was a website that rickrolled you when you opened it?
+
+But there in fact were websites that r... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br />
