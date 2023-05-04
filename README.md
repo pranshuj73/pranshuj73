@@ -1,17 +1,16 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>
 
 
-I'm [Pranshu Jha](https://linktr.ee/pranshuj73), a Full-Stack Developer from India. I like designing and creating web-apps and, often automating tasks with Python!
-- 🚀 I'm intermediately proficient with Python and JavaScript
-- 🔭 I’m currently working on expanding my skill set as a Full-Stack Developer
-- 🌱 I’m currently learning more about React and exploring the world of Web3 and Blockchain
-- 💬 Ask me about web development & web3
-- 😄 Pronouns: he/him
-- ⚡ Languages Known: Python3, JavaScript, C++
+I'm [Pranshu Jha](https://linktr.ee/pranshuj73), a Full-Stack developer, currently building in public and sharing my tech journey through a series of tweets and blog posts!
+- 🚀 Intermediately proficient with Python and JavaScript
+- 🔭 Currently learning blockchain
+- 🌱 Sharing content on web-dev, blockchain and open-source
 
-Overall, I code just for the fun of it!
+## Tech I'm Familiar With
 
-Psst! I'm always up for collaboration so, feel free to ping me at [pranshuj9801@gmail.com](mailto:pranshuj9801@gmail.com)!
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,solidity,linux,git,github,py,c,java,androidstudio,figma,mongodb&perline=8)](https://skillicons.dev)
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!-- SOCIALS -->
 
@@ -51,7 +50,7 @@ But there in fact were websites that r... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 ## 👾 My Stats
 <a href="https://app.daily.dev/voltycodes"><img align="left" src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card" /></a>
-<img align="left" src="https://github-readme-stats.zohan.tech/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dark&icon_color=61dafb" alt="Pranshu Jha's Stats" />
+<img align="left" src="https://vy-gh-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dark&icon_color=61dafb" alt="Pranshu Jha's Stats" />
 <br/>
-<img align="left" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dark&icon_color=61dafb&hide_border=true" alt="Pranshu Jha's top languages" />
+<img align="left" src="https://vy-gh-stats.vercel.app/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dark&icon_color=61dafb&hide_border=true" alt="Pranshu Jha's top languages" />
 
