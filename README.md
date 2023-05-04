@@ -1,21 +1,20 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>
 
 
-I'm [Pranshu Jha](https://linktr.ee/pranshuj73), a Full-Stack developer, currently building in public and sharing my tech journey through a series of tweets and blog posts!
-- 🚀 Intermediately proficient with Python and JavaScript
-- 🔭 Currently learning blockchain
-- 🌱 Sharing content on web-dev, blockchain and open-source
+I'm [Pranshu Jha](https://linkfree.io/pranshuj73), a full-stack web developer passionate about building software to create impact.
 
-## Tech I'm Familiar With
+- 🚀 Building projects with Python and JavaScript
+- 🔭 Currently learning blockchain and web3 technologies
+- 🌱 Sharing content on web-dev, blockchain and open-source on my blog
+- 💬 Ask me about full-stack development and quirky project ideas (I always have a few in store!)
+- 😄 Pronouns: he/him
+- ⚡ Interested in contributing to open source projects and giving back to the community
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,solidity,linux,git,github,py,c,java,androidstudio,figma,mongodb&perline=8)](https://skillicons.dev)
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
-<!-- SOCIALS -->
+Feel free to reach out to me on Twitter/Discord!
 
 <br />
 
+<!-- SOCIALS -->
 <div align="center">
  <a href="https://twitter.com/pranshuj73" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-@pranshuj73-blue?color=efefef&style=for-the-badge&logo=twitter" />
@@ -48,9 +47,3 @@ What if there was a website that rickrolled you when you opened it?
 
 But there in fact were websites that r... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
-## 👾 My Stats
-<a href="https://app.daily.dev/voltycodes"><img align="left" src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card" /></a>
-<img align="left" src="https://vy-gh-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dark&icon_color=61dafb" alt="Pranshu Jha's Stats" />
-<br/>
-<img align="left" src="https://vy-gh-stats.vercel.app/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dark&icon_color=61dafb&hide_border=true" alt="Pranshu Jha's top languages" />
-
