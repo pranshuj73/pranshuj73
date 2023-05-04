@@ -49,12 +49,9 @@ What if there was a website that rickrolled you when you opened it?
 
 But there in fact were websites that r... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
-
-<br />
-
 ## 👾 My Stats
 <a href="https://app.daily.dev/voltycodes"><img align="left" src="https://github.com/pranshuj73/pranshuj73/blob/main/devcard.svg" width="280" alt="Pranshu Jha's Dev Card" /></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dracula" alt="Pranshu Jha's Stats" />
+<img align="left" src="https://github-readme-stats.zohan.tech/api?username=pranshuj73&count_private=true&hide_border=true&show_icons=true&theme=dark&icon_color=61dafb" alt="Pranshu Jha's Stats" />
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dracula&hide_border=true" alt="Pranshu Jha's top languages" />
+<img align="left" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=pranshuj73&layout=compact&hide=css,html&theme=dark&icon_color=61dafb&hide_border=true" alt="Pranshu Jha's top languages" />
 
